@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\src\hermes.gpx.protocol\Hermes.Holux.Protocol\obj\Caravan-Serai\Package\PackageTmp" />
-  <setAcl path="C:\src\hermes.gpx.protocol\Hermes.Holux.Protocol\obj\Caravan-Serai\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="C:\src\hermes.gpx.protocol\Hermes.Holux.Protocol\obj\Caravan-Serai\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="C:\Users\dmytrogordiienko\source\repos\hermes.gpx.protocol\Hermes.Holux.Protocol\obj\Caravan-Serai\Package\PackageTmp" />
+  <setAcl path="C:\Users\dmytrogordiienko\source\repos\hermes.gpx.protocol\Hermes.Holux.Protocol\obj\Caravan-Serai\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\dmytrogordiienko\source\repos\hermes.gpx.protocol\Hermes.Holux.Protocol\obj\Caravan-Serai\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>
