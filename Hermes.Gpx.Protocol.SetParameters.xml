@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="hermes.holux.gpx" />
+  <setParameter name="distributor-Web.config Connection String" value="User Id=distrdev;Password=distrdev;Server=192.168.101.149;Direct=True;Sid=orclscs;Persist Security Info=True" />
+  <setParameter name="hermes-Web.config Connection String" value="Data Source=WIN-V6RGIQ930O8\SQLEXPRESS;Initial Catalog=hermes;Persist Security Info=True;User ID=sa;Password=Asdewq12#z" />
+</parameters>
